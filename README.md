@@ -1,0 +1,1 @@
+This project models and simulates the dynamics of a double pendulum system with variable radii connected by springs, including damping effects. The system is governed by nonlinear differential equations and solved numerically using scipy.integrate.solve_ivp
